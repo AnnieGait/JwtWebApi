@@ -1,4 +1,4 @@
-﻿namespace JwtWebApi
+﻿namespace JwtWebApi.DTOs
 {
     public class UserDto
     {
